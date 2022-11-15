@@ -1,4 +1,6 @@
 //Greets user with an input name
+// Part of 'CS50s Introduction to Computer Science' through HarvardX
+// Sebastian Quirarte | sebastianquirajus@gmail.com
 
 #include <stdio.h>
 #include <cs50.h>
