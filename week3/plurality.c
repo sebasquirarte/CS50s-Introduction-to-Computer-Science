@@ -1,6 +1,6 @@
 // Plurality: Determines the winner of an election based on variable candidates and a determined number of votes.
-// 29 Jul 22
-// Sebastian Quirarte || sebastianquirajus@gmail.com
+// Part of 'CS50s Introduction to Computer Science' through HarvardX
+// Sebastian Quirarte | sebastianquirajus@gmail.com | 29 Jul 22
 
 #include <cs50.h>
 #include <stdio.h>
