@@ -1,4 +1,6 @@
 // Determines if a credit card number is valid and if Visa, Mastercard, or American Express
+// Part of 'CS50s Introduction to Computer Science' through HarvardX
+// Sebastian Quirarte | sebastianquirajus@gmail.com
 
 // Checksum Steps:
 // 1. Multiply every other digit by 2, starting with the number’s second-to-last digit. Add those products’ digits together.
