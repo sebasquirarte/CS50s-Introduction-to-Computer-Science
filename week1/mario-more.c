@@ -1,4 +1,6 @@
 // Creates text graphic of a pyramid with variable height and a gap in the middle
+// Part of 'CS50s Introduction to Computer Science' through HarvardX
+// Sebastian Quirarte | sebastianquirajus@gmail.com
 
 #include <cs50.h>
 #include <stdio.h>
