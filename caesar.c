@@ -1,6 +1,6 @@
 // Cesar Cypher - Creates cyphertext by moving letter a variable number of places
-// Sebastian Quirarte | sebastianquirajus@gmail.com
-// 24 Jul 2022
+// Part of 'CS50s Introduction to Computer Science' through HarvardX
+// Sebastian Quirarte | sebastianquirajus@gmail.com | 24 Jul 2022
 
 #include <cs50.h>
 #include <stdio.h>
