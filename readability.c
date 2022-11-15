@@ -1,6 +1,6 @@
 // Readability - Determines grade level of given text
-// Sebastian Quirarte | sebastianquirajus@gmail.com
-// 25 Jul 2022
+// Part of 'CS50s Introduction to Computer Science' through HarvardX
+// Sebastian Quirarte | sebastianquirajus@gmail.com | 22 Jul 22
 
 #include <cs50.h>
 #include <stdio.h>
