@@ -1,6 +1,6 @@
 // Runoff: Determines the winner of a runoff election based on variable candidates and a determined number of voters.
-// 30 Jul 22
-// Sebastian Quirarte || sebastianquirajus@gmail.com
+// Part of 'CS50s Introduction to Computer Science' through HarvardX
+// Sebastian Quirarte | sebastianquirajus@gmail.com | 30 Jul 22
 
 #include <cs50.h>
 #include <stdio.h>
