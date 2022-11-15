@@ -1,6 +1,6 @@
 // Scrabble between two players
-// Sebastin Quirarte | sebastianquirajus@gmail.com
-// 23 Jul 22
+// Part of 'CS50s Introduction to Computer Science' through HarvardX
+// Sebastian Quirarte | sebastianquirajus@gmail.com | 23 Jul 22
 
 #include <ctype.h>
 #include <cs50.h>
