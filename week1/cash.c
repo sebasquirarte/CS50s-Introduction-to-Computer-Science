@@ -1,4 +1,7 @@
 // Determines fastest rate to give change in coins
+// Part of 'CS50s Introduction to Computer Science' through HarvardX
+// Sebastian Quirarte | sebastianquirajus@gmail.com
+
 #include <cs50.h>
 #include <stdio.h>
 
